@@ -1,0 +1,5 @@
+{
+  "name": "HRM Pro - Penggajian & Karyawan",
+  "description": "Aplikasi manajemen SDM komprehensif berbasis React yang mensimulasikan sistem CRUD PHP. Mencakup manajemen karyawan, simulasi import absensi fingerspot, penilaian performa, dan perhitungan gaji otomatis dengan slip gaji siap cetak.",
+  "requestFramePermissions": []
+}
